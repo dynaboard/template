@@ -13,18 +13,9 @@ nodes:
       pages:
         - nodeID: bb071577-c4ea-4614-98e6-9ad31c233cbe
           orderKey: a0
-    properties:
-      languages:
-        - en
-      robotsTxt: null
-      selectedTheme: null
-      showDynaboardBranding: '{{false}}'
-      timezone: America
   bb071577-c4ea-4614-98e6-9ad31c233cbe:
     id: bb071577-c4ea-4614-98e6-9ad31c233cbe
     type: PAGE
     name: index
-    removed: false
     parentNodeID: ROOT_NODE
     parentSlot: pages
-
